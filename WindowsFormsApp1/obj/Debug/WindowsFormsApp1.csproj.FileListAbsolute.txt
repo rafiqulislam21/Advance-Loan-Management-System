@@ -1,0 +1,155 @@
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\adiln\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\adiln\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\IUB CSE\C#\Final project database\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\asfar\Final project databas(UI Updated)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ri Bijoy\Desktop\Final project databas(UI Updated nafees!!)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
