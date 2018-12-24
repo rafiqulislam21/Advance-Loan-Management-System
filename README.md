@@ -1,4 +1,5 @@
 # Advance-Loan-Management-System
+(This software is developed by microsoft .net framework)
 
 #About project
 
